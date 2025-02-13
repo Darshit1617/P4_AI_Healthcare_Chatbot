@@ -22,7 +22,7 @@ AI Model: Hugging Face pipeline (GPT-2 based model)
     
 2️⃣ Install Dependencies
 
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 
 3️⃣ Run the Chatbot
 
