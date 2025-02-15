@@ -18,7 +18,7 @@ AI Model: Hugging Face pipeline (GPT-2 based model)
 1️⃣ Clone the Repository
 
     git clone https://github.com/Darshit1617/P4_AI_Healthcare_Chatbot.git
-    cd healthcare-chatbot
+    cd P4_AI_Healthcare_Chatbot
     
 2️⃣ Install Dependencies
 
